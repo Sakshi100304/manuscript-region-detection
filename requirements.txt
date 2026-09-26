@@ -1,0 +1,7 @@
+Flask
+ultralytics
+opencv-python
+numpy
+Pillow
+PyYAML
+tqdm
