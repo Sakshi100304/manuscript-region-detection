@@ -36,3 +36,5 @@ dataset/
 # Prepared image/label data
 data/images/
 data/labels/
+# Final generated inference results
+results_final/
